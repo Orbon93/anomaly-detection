@@ -1,5 +1,0 @@
-True Positives (TP): 64
-False Positives (FP): 0
-False Negatives (FN): 0
-Precision: 1.00, Recall: 1.00, F1-Score: 1.00, Accuracy: 1.00
-5.5
