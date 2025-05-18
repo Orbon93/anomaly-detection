@@ -1,0 +1,9 @@
+{
+    "time_elapsed": 2.6357131004333496,
+    "messages_processed": 9991,
+    "throughput": 3790.625010877449,
+    "latency": 0.00026380873790745165,
+    "cpu_usage": 100.0,
+    "ram_usage": 183.796875,
+    "process_memory_usage": 0.0
+}

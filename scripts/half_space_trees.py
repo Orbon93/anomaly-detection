@@ -1,4 +1,3 @@
-# Benötigte Bibliotheken importieren
 import pandas as pd
 from river import anomaly, preprocessing
 import numpy as np
