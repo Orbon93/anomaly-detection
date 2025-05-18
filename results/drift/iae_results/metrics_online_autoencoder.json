@@ -1,8 +1,0 @@
-{
-    "time_elapsed": 3.3816146850585938,
-    "messages_processed": 1631,
-    "throughput": 482.31396888783604,
-    "latency": 0.0020733382495760843,
-    "cpu_usage": 168.7,
-    "ram_usage": 577.59375
-}

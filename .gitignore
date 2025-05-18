@@ -1,16 +1,6 @@
 # Virtuelle Umgebung
 myenv/
 
-results/baseline/hst_results/results.txt
-results/change/hst_results/results.txt
-results/drift/hst_results/results.txt
-results/noise/hst_results/results.txt
-results/baseline/iae_results/results.txt
-results/change/iae_results/results.txt
-results/drift/iae_results/results.txt
-results/noise/iae_results/results.txt
-
-
 
 # Python-Cache-Dateien
 __pycache__/
