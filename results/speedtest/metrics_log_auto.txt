@@ -1,0 +1,30 @@
+0.1
+    "messages_processed": 1082,
+    "throughput": 9.079506774442935,
+    "latency": 0.11013814129362265,
+    "cpu_usage": 39.2,
+    "ram_usage": 548.046875
+0.01
+    "messages_processed": 4740,
+    "throughput": 39.91339261993958,
+    "latency": 0.025054247067447452,
+    "cpu_usage": 88.3,
+    "ram_usage": 606.953125
+0.001
+    "messages_processed": 7533,
+    "throughput": 63.56568193715419,
+    "latency": 0.01573175917452872,
+    "cpu_usage": 100.4,
+    "ram_usage": 583.296875
+0.0001
+    "messages_processed": 8048,
+    "throughput": 67.90290450072726,
+    "latency": 0.01472691054017122,
+    "cpu_usage": 141.5,
+    "ram_usage": 574.171875
+ohne sleep
+    "messages_processed": 8041,
+    "throughput": 67.84989713577394,
+    "latency": 0.014738415859332948,
+    "cpu_usage": 170.3,
+    "ram_usage": 578.859375

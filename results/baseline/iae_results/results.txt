@@ -1,0 +1,6 @@
+True Positives (TP): 64
+False Positives (FP): 1
+False Negatives (FN): 0
+Precision: 0.98, Recall: 1.00, F1-Score: 0.99, Accuracy: 0.98
+Schwellenwert: 3
+Learningrate 0.0001

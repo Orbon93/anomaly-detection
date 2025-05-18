@@ -1,0 +1,16 @@
+True Positives (TP): 23
+False Positives (FP): 8
+False Negatives (FN): 5
+Precision: 0.74, Recall: 0.82, F1-Score: 0.78, Accuracy: 0.64
+3.7
+True Positives (TP): 22
+False Positives (FP): 6
+False Negatives (FN): 6
+Precision: 0.79, Recall: 0.79, F1-Score: 0.79, Accuracy: 0.65
+3.8
+HST Model:
+True Positives (TP): 21
+False Positives (FP): 5
+False Negatives (FN): 7
+Precision: 0.81, Recall: 0.75, F1-Score: 0.78, Accuracy: 0.64
+3.9
