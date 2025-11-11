@@ -237,7 +237,7 @@ print(f"Recall:    {recall:.2f}")
 print(f"F1-Score:  {f1:.2f}")
 print(f"Accuracy:  {accuracy:.2f}")
 
-# Optional: Speichere die Metriken in Datei
+# Metriken in Datei speichern
 evaluation_output_path = result_base_path + "hst_results/hst_evaluation_metrics.json"
 with open(evaluation_output_path, 'w') as f:
     json.dump({
